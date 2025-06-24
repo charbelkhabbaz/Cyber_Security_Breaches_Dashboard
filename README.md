@@ -1,6 +1,5 @@
 # Cyber Security Breaches Analysis Dashboard
 
-Cyber Security Breaches Analysis Dashboard
 This Power BI dashboard provides comprehensive analysis of cybersecurity breaches within an organization, tracking key metrics, employee performance, and departmental/branch vulnerabilities.
 
 **Key Features:**
