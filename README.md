@@ -1,7 +1,72 @@
 # Cyber Security Breaches Analysis Dashboard
 
-This Power BI dashboard provides comprehensive analysis of cybersecurity breaches within an organization, tracking key metrics, employee performance, and departmental/branch vulnerabilities.
+**Overview**
 
+This Power BI dashboard provides comprehensive analysis of cybersecurity breaches within an organization, tracking key metrics, employee performance, and departmental/branch vulnerabilities to help businesses identify risks and improve their security posture.
+
+**What Are "Breaches"?**
+
+A cybersecurity breach (or data breach) occurs when unauthorized parties access, steal, or expose sensitive company data through:
+
+Malicious attacks (hacking, phishing)
+
+Employee accidents (misconfigured settings, lost devices)
+
+Insider threats (intentional data leaks)
+
+Examples:
+
+Hackers stealing customer payment details
+
+An employee emailing confidential files to the wrong person
+
+A stolen laptop exposing employee social security numbers
+
+**Key Dashboard Functions**
+
+**1. Incident Tracking & Analysis**
+
+   - Total breach volume
+   - Open vs. closed breach status
+   - Average resolution time
+   - Data loss quantification
+
+
+**2. Vulnerability Identification**
+
+   - Department Analysis: Pinpoints high-risk areas (IT, HR, Finance)
+   - Branch Analysis: Reveals geographic weak spots across offices
+   - Breach Types: Categorizes incidents by attack method
+
+
+**3. Employee Impact Assessment**
+
+Example: 
+  1- 16M employees affected (81.96% of workforce)
+  
+  2- 3M employees secured (18.04%)
+
+  3- Per-incident exposure metrics
+
+
+
+**4. Performance Management**
+
+- Top Performer Rankings
+- Employee training needs identification
+- Resolution efficiency benchmarking
+
+
+
+**Business Value**
+This dashboard enables organizations to:
+   - Prioritize security investments
+   - Accelerate breach response times
+   - Recognize effective staff
+   - Develop targeted training programs
+   - Maintain compliance with data protection regulations
+    
+    
 **Key Features:**
 
 **Dashboard Pages**
