@@ -140,7 +140,7 @@ Consistent Reporting: Everyone sees the same numbers
 
 1- Download and install Power BI Desktop.
 
-2- Open the Power BI project file: CarsSalesDashboard.pbix.
+2- Open the Power BI project file: Cyber Security Breaches.pbix.
 
 3- Go to Transform Data and update the file path to correctly point to the Excel data source on your local machine.
 
