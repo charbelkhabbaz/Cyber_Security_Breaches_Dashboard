@@ -8,19 +8,16 @@ This Power BI dashboard provides comprehensive analysis of cybersecurity breache
 
 A cybersecurity breach (or data breach) occurs when unauthorized parties access, steal, or expose sensitive company data through:
 
-Malicious attacks (hacking, phishing)
-
-Employee accidents (misconfigured settings, lost devices)
-
-Insider threats (intentional data leaks)
+   - Malicious attacks (hacking, phishing)
+   - Employee accidents (misconfigured settings, lost devices)
+   - Insider threats (intentional data leaks)
 
 Examples:
+   - Hackers stealing customer payment details
+   - An employee emailing confidential files to the wrong person
+   - A stolen laptop exposing employee social security numbers
 
-Hackers stealing customer payment details
 
-An employee emailing confidential files to the wrong person
-
-A stolen laptop exposing employee social security numbers
 
 **Key Dashboard Functions**
 
