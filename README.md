@@ -3,7 +3,9 @@
 This Power BI dashboard provides comprehensive analysis of cybersecurity breaches within an organization, tracking key metrics, employee performance, and departmental/branch vulnerabilities.
 
 **Key Features:**
+
 **Dashboard Pages**
+
 Home: High-level KPI overview with navigation to sub-pages
 
 ![Capture1](https://github.com/user-attachments/assets/d864d97b-5abc-46c4-8258-3503d017a7b3)
@@ -25,6 +27,7 @@ Summary: Consolidated breach statistics
 ![Capture5](https://github.com/user-attachments/assets/4d064c61-78f2-4f77-ab30-52cecd9ad118)
 
 **Key Performance Indicators (KPIs)**
+
    - Total Breaches
    - Open Breaches
    - Closed Breaches
@@ -36,6 +39,7 @@ Summary: Consolidated breach statistics
    - Employees Identifying Breaches
 
 **Table Relationships Overview**
+
 The data model for this dashboard follows a star schema design (everything connects to the center) with fact and dimension tables. Here's how the tables relate to each other:
 
 ![Capture6](https://github.com/user-attachments/assets/db65f816-2636-4a21-b05e-aa976234d911)
